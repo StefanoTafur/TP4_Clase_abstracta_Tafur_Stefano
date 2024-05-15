@@ -17,7 +17,7 @@ class Pig : Animal
     public override void animalSound()
     {
         // The body of animalSound() is provided here
-        Console.WriteLine("The pig says: wee wee111");
+        Console.WriteLine("The pig says: wee wee");
     }
     public override void animaltype()
     {
